@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>techcode.net</name>
+    <description>techcode.net Gentoo overlay</description>
+    <homepage>https://github.com/techcodenet/gentoo-overlay</homepage>
+    <owner>
+      <email>techcodenet@users.noreply.github.com</email>
+      <name>Aleksandar Petrovic</name>
+    </owner>
+    <source type="git">https://github.com/techcodenet/gentoo-overlay</source>
+  </repo>
+</repositories>
